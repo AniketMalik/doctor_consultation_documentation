@@ -1,0 +1,1 @@
+(self.webpackChunkdoctor_consultation_documentation=self.webpackChunkdoctor_consultation_documentation||[]).push([[2],{5688:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/doctor_consultation_documentation/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/doctor_consultation_documentation/blog/tags/facebook"}')}}]);
